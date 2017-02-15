@@ -1,0 +1,1 @@
+Adafruit NeoPixel Library stripped down and converted to only run esp8266 and tm1829 strip
